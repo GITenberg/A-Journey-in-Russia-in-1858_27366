@@ -1,0 +1,27 @@
+_repo: A-Journey-in-Russia-in-1858_27366
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heywood, Robert
+    birthdate: 1786
+    deathdate: 1868
+    gutenberg_agent_id: '26629'
+    url: http://www.gutenberg.org/2009/agents/26629
+description: ''
+gutenberg_issued: '2008-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27366'
+  lccn: '26007758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Russia -- Description and travel'
+title: A Journey in Russia in 1858
+url: http://www.gutenberg.org/ebooks/27366
